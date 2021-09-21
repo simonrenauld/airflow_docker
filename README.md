@@ -7,6 +7,6 @@ https://github.com/simonrenauld/Data-Engineering/wiki
 
 
 <p align="center">
-  <img width="400" height="400" src="https://github.com/simonrenauld/simonrenauld.github.io/blob/main/images/dataengineeringfocus.png" />
+  <img width="200" height="200" src="https://github.com/simonrenauld/simonrenauld.github.io/blob/main/images/dataengineeringfocus.png" />
 </p>
 
