@@ -5,8 +5,3 @@ Data engineering is the development, operation, and maintenance of data infrastr
 https://github.com/simonrenauld/Data-Engineering/wiki
 
 
-
-<p align="center">
-  <img width="300" height="300" src="https://github.com/simonrenauld/simonrenauld.github.io/blob/main/images/dataengineeringfocus.png" />
-</p>
-
