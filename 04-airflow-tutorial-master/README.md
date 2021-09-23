@@ -22,6 +22,7 @@ Either use a separate python virtual environment or install it in your default p
 To use the conda virtual environment as defined in `environment.yml` in this git-repo:
 
 * Install [miniconda](http://conda.pydata.org/miniconda.html).
+* https://varhowto.com/install-miniconda-ubuntu-20-04/
 * Make sure that conda is on your path:
 
 ```{bash}
