@@ -1,1 +1,1 @@
-https://github.com/simonrenauld/01-Data-Engineering/wiki/0.-Home---My-Data-Engineering-wiki
+https://github.com/simonrenauld/01-Data-Engineering/wiki/1.-Getting-Started---Data-Engineering
